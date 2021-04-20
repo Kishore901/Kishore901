@@ -13,7 +13,7 @@
 
   [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' height='25'>](https://www.linkedin.com/in/kishore-singh369) [<img src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg' height='25'>](https://www.instagram.com/kishore_singh901/)[<img src='https://img.icons8.com/windows/32/000000/globe-earth.png' height=28>](https://kishore901.github.io/portfolio/)
 
----
+<br />
 
 🧰 Languages and Tools
 
