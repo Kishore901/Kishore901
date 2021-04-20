@@ -7,7 +7,7 @@
 - 🚩 2021 Goals - **To Be an Expert in ReactJS**
 - 📫 Would love to connect :
 
-  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' height='25'>](www.linkedin.com/in/kishore-singh369) [<img src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg' height='25'>](https://www.instagram.com/kishore_singh901/) [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' height='25'>](https://kishore901.github.io/portfolio/)
+  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' height='25'>](www.linkedin.com/in/kishore-singh369) [<img src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg' height='25'>](https://www.instagram.com/kishore_singh901/)[<img src='https://img.icons8.com/material-two-tone/24/000000/globe--v1.png' height='27'>](https://kishore901.github.io/portfolio/)
 
 ---
 
