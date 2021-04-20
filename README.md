@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="50" height="50"/>
