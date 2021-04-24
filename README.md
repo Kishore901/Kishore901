@@ -1,4 +1,3 @@
-/*
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kishore Singh.
 
 ---
@@ -23,4 +22,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore901&theme=dark&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
-*/
